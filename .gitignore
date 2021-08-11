@@ -6,3 +6,7 @@
 /BlazorSample007/Client/bin
 /BlazorSample007/Shared/bin/Debug/net5.0/ref/BlazorSample007.Shared.dll
 /.vs
+/BlazorSample007/Shared/bin
+/BlazorSample007/Shared/bin/Debug/net5.0/BlazorSample007.Shared.deps.json
+/BlazorSample007/Shared/bin/Debug/net5.0/BlazorSample007.Shared.dll
+/BlazorSample007/Shared/bin/Debug/net5.0/BlazorSample007.Shared.pdb
